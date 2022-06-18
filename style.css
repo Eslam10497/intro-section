@@ -42,7 +42,8 @@ body {
   display: inline-block;
   width: 51%;
   position: relative;
-  left: 55%;
+  left: 49%;
+  text-align: center;
 }
 .hero-img {
   width: 63%;
