@@ -69,6 +69,17 @@ body {
 .learn-btn {
   border-radius: 10px;
 }
+.sponsers {
+  display: inline-block;
+  position: relative;
+  bottom: 500px;
+  left: 130px;
+  width: 60%;
+}
+.spon-img {
+  padding: 3%;
+  width: 15%;
+}
 
 /* Attribution Section  */
 
